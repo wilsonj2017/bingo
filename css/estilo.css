@@ -1,0 +1,35 @@
+body{
+	background:#A9E2F3;
+	font-family: Arial;
+}
+table{
+	margin-top:20px;
+}
+input[type="text"]{
+	width: 150px;
+	height: 40px;
+	border:none;
+	border-radius: 5px;
+	padding: 0 10px;
+}
+
+
+
+.boton{
+	display: block;
+	width: 200px;
+	height: 40px;
+	color: #fff;
+	border-radius: 5px;
+	text-decoration: none;
+	background: #0489B1;
+	line-height:40px;
+	border:none;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+input[type=submit]{
+	width: 200px;
+	height: 40px;
+
+}
